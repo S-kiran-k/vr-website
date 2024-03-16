@@ -2,7 +2,7 @@
 function included() {
   return (
     <section>
-        <div className="2xl:container">
+        <div className="2xl:container py-5">
               <div className="w-[80%] mx-auto grid grid-cols-1 py-3 ">
                   <div>
                       <h1 className="text-2xl font-bold text-[#212529]">Included VR Kit</h1>
